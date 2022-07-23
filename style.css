@@ -1,24 +1,55 @@
-.one{
+/* css for container one  */
+*{
+outline: 2px solid red;
 
 }
 
+.container-one{
+ background-color: #1F2937;
+}
+
 .header-logo{
+size: 24px;
+color: #F9FAF8;
+
 
 }
 
 .left-links{
+list-style: none;
+
 
 }
 
+a{
+text-decoration: none;
+color: #e5e7eb;
+
+
+}
+
+.awesome{
+
+
+}
 .header-2{
-    
+size: 48px;
+font-weight: 900;
+color: #F9FAF8;
+
 }
 
 .text{
-
+size: 18px;
+color: #e5e7eb;
 }
 
 .sign-up{
-
+ color: #3882F6;
 }
 
+.image{
+   
+}
+
+/* css for container two */
