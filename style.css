@@ -1,3 +1,12 @@
+*{
+     outline: dashed red;  
+
+}
+
+
+body{
+margin: 0px;
+}
 /* css for container one  */
 .container-one{
     padding:0px 128px 64px;
@@ -68,6 +77,94 @@ padding: 16px;
 .lower{
     display: flex;
     justify-content: space-between;
+    margin-top: 16px;
 }
 
 /* css for container two */
+
+.container-two{
+    padding:0px 128px 64px;
+    background-color: #F9FAF8;
+    
+ 
+}
+
+.header-two{
+    list-style: none;
+    display: flex;
+    justify-content: space-around;
+    
+}
+
+.two-images{
+ text-decoration: none;
+ list-style: none;
+ display: flex;
+ justify-content: space-between;
+
+ 
+}
+
+.img-container{
+   
+    text-decoration: none;
+    list-style: none;
+    border-radius: 4px;
+    border: solid 2px #3882F6;
+    height: 160px;
+    width: 160px;
+    
+
+}
+.txt-two-container{
+    display: flex; 
+    justify-content: space-between;
+    
+  
+    
+}
+.txt-two{
+    display: flex;
+    text-decoration: none;
+    list-style: none;
+    flex-wrap: wrap-reverse;
+    height: 160px;
+    width: 160px;
+    text-align: center;   
+
+    
+    
+}
+
+
+
+/* css for container three */
+.container-three{
+    padding: 64px 128px 64px;
+    background-color: #e5e7eb;
+    display: flex;
+    width: fit-content;
+    
+}
+.three-text-container{
+    display: flex;
+    padding: 0;
+   
+}
+.three-text{
+color: #1F2937;
+font-size: 36px;
+
+
+
+
+}
+
+.quote-txt{
+ display: flex;
+ flex-direction: row-reverse;
+ 
+}
+/* css for container four */
+
+/* css for container footer */
