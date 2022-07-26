@@ -9,7 +9,7 @@ So I have been working on this project for a bit and I think I am going to be wr
 
 I know I could probably do a better job, but it feels that I am getting diminishing returns continuing to work on this project. 
 
-I feel as if my syntax isn't clean/accurate as well as bloated.
+I feel as if my syntax isn't clean/accurate as well as bloated. But the website at least looks "okay".
 
 I ran into trouble using flex-box at the begining but I feel by the time I got to the fourth container my understanding of it has expanded.
 
